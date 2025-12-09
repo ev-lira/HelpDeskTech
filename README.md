@@ -1,5 +1,3 @@
-Projeto de Estrutura de dados/ POO — 2025.2
-
 # 🚀 HelpDeskTech - Sistema de Gestão de Atendimentos
 
 Este projeto foi desenvolvido em *Java* para a disciplina de Estrutura de Dados, com o objetivo de implementar e demonstrar o funcionamento prático das estruturas de dados fundamentais: *Fila, **Pilha, **Lista* e *Árvore Binária de Busca (ABB)*.
@@ -37,7 +35,9 @@ Navegue até o diretório onde os arquivos estão salvos e use o compilador Java
 
 ```bash
 javac *.java
+```
 
+# Projeto de Estrutura de dados/ POO — 2025.2
 
 Alunos:
 ### Erlon Vítor de Lira Mendes — 01649461
